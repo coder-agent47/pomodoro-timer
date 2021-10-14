@@ -49,6 +49,5 @@ button:hover {
     background: lightgray;
 }
 h1{
-    text-align: center;
-    color: white;
+    align: center
 }
